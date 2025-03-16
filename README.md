@@ -5,8 +5,7 @@
 - To clone this repo
 ```
 
-git clone https://github.com/RayDev07/Security-Bot.git
-
+git clone https://github.com/Nishant04-dev/Nishant-.git
 cd Security-Bot
 
 ```
