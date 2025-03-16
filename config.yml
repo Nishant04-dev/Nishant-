@@ -5,7 +5,7 @@ bot:
   PREFIX: '+'
   EMBED_COLOR: '#ff0000'
   OWNERS: ['1276162783188090955']
-  MONGO: 'mongodb+srv://codex-in1:codex-in1@codex-in1.1bgxp.mongodb.net/?retryWrites=true&w=majority'
+  MONGO: 'mongodb+srv://nishantchauhan04:11092004@cluster0.zmpu1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 links:
   INVITE: 'https://discord.com/oauth2/authorize?client_id=1338600733846802493'
   SUPPORT: 'https://discord.gg/m4pHHrnkxA'
