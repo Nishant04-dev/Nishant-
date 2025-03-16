@@ -25,3 +25,6 @@ npm i
 node sharder.js
 
 ```
+
+If you have any queries Join discord server 
+https://discord.gg/uHK9MkNpQ9
