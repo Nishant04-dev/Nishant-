@@ -1,7 +1,7 @@
 # @format
 bot:
   ID: '1338600733846802493'
-  TOKEN: 'MTMzODYwMDczMzg0NjgwMjQ5Mw.GK0Ib-.20EK5-tuD7Lan6u4amPf3-VjL_l4L-pbt3Fww4'
+  TOKEN: 'your_bot_token'
   PREFIX: '+'
   EMBED_COLOR: '#ff0000'
   OWNERS: ['1276162783188090955']
