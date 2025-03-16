@@ -1,0 +1,12 @@
+# @format
+bot:
+  ID: '1338600733846802493'
+  TOKEN: 'MTMzODYwMDczMzg0NjgwMjQ5Mw.GK0Ib-.20EK5-tuD7Lan6u4amPf3-VjL_l4L-pbt3Fww4'
+  PREFIX: '+'
+  EMBED_COLOR: '#ff0000'
+  OWNERS: ['1276162783188090955']
+  MONGO: 'mongodb+srv://codex-in1:codex-in1@codex-in1.1bgxp.mongodb.net/?retryWrites=true&w=majority'
+links:
+  INVITE: 'https://discord.com/oauth2/authorize?client_id=1338600733846802493'
+  SUPPORT: 'https://discord.gg/m4pHHrnkxA'
+  VOTE: ''
