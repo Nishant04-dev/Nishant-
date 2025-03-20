@@ -7,7 +7,7 @@ SOURCE CODE DOWNLOAD - https://drive.google.com/file/d/105lE2TePCZA8feg1pb0MhhaN
 - To clone this repo
 ```
 
-git clone https://github.com/Nishant04-dev/Nishant-.git
+git clone https://github.com/Nishant04-dev/Zoro-security-bot.git
 cd Security-Bot
 
 ```
